@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/build/
+.kotlin/
+# Release signing — keep these private; back them up outside VCS
+keystore.properties
+*.jks
+*.keystore

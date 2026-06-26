@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A "baseline" mark: a hairline bar with a wash fill, a center tick, and a knob.
+     Drawn inside the 72dp adaptive-icon safe zone of a 108dp canvas. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- wash fill (left portion) -->
+    <path
+        android:fillColor="#1f8a52"
+        android:fillAlpha="0.22"
+        android:pathData="M30,56 L66,56 L66,63 L30,63 Z" />
+    <!-- base hairline -->
+    <path
+        android:fillColor="#221d16"
+        android:fillAlpha="0.55"
+        android:pathData="M30,62 L78,62 L78,63.5 L30,63.5 Z" />
+    <!-- center tick -->
+    <path
+        android:fillColor="#221d16"
+        android:fillAlpha="0.45"
+        android:pathData="M53.5,50 L54.5,50 L54.5,65 L53.5,65 Z" />
+    <!-- knob at the wash edge -->
+    <path
+        android:fillColor="#1f8a52"
+        android:pathData="M65,49 L67,49 L67,65 L65,65 Z" />
+    <!-- wordmark dot -->
+    <path
+        android:fillColor="#221d16"
+        android:pathData="M30,42 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>

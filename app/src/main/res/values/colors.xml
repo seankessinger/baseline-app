@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background = paper surface (light). Overridden in values-night. -->
+    <color name="paper">#f3efe6</color>
+    <color name="ic_launcher_background">#e7e3da</color>
+</resources>
